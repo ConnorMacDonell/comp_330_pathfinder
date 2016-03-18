@@ -1,2 +1,2 @@
-# comp_330_pathfinder
+# Navigating Loyola - Get Me There
 no thanks
